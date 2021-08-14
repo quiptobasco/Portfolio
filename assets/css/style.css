@@ -118,24 +118,6 @@ section {
   align-items: center;
 }
   
-.border_1 {
-  border-right: 3px solid var(--yellow);
-  height: 150px;
-  flex: 2 1%;
-}
-
-.border_2 {
-  border-right: 3px solid var(--yellow);
-  height: 450px;
-  flex: 2 8%;  
-}
-
-.border_3 {
-  border-right: 3px solid var(--yellow);
-  height: 100px;
-  flex: 2 5%;
-}
-  
 .info_text {
   flex: 25;
 }
@@ -295,14 +277,6 @@ figcaption {
     text-align: right;
     font-weight: bold;
   }
-
-  .border_1 {      
-    height: 350px;     
-  }
-
-  .border_2 {
-    height: 280px;     
-  }  
   
   .container {
     width: 100%;
@@ -319,10 +293,6 @@ figcaption {
     font-size: 18px;
     line-height: 2;  
     font-weight: bold;
-  }
-
-  .border_3 {
-    height: 180px;
   }
 
   .hero_image {
