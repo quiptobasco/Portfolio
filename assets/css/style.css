@@ -136,8 +136,6 @@ figcaption {
   margin-left: 5px;
   margin-top: -20%;
   font-size: 12px;
-  font-style: italic;
-  font-weight: bold;
   background-color: var(--indigo); 
   color: var(--yellow);
 }
