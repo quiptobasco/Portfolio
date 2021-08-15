@@ -4,7 +4,7 @@
 
 The purpose of the portfolio is to create an eye-catching website of projects I have created to submit to a prospective employer.  In its current state, this portfolio is more like a prototype which will be updated as the bootcamp progresses.  I will add more actual projects as they are finished, and make it look more professional as time goes on.
 
-![screenshot](https://user-images.githubusercontent.com/87678391/129457635-cc440df3-9ea1-4adc-b4f0-0313b8891c68.png)
+![screenshot](https://user-images.githubusercontent.com/87678391/129463596-8ab766a8-7006-48b5-9df5-4e9ee307be87.png)
 
 ## Languages used:
 **`HTML`**
