@@ -12,6 +12,6 @@ The purpose of the portfolio is to create an eye-catching website of projects I 
 **`CSS`**
 
 ### Links:
-live page - https://quiptobasco.github.io/Week-2-Homework/
+live page - https://quiptobasco.github.io/Portfolio/
 
 my github - https://github.com/quiptobasco
